@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aiganat Muratbek 👋
 
-<!--
-**kanat-m/kanat-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics teacher and Bachelor of Engineering and Technology in Information Systems (Astana, Kazakhstan).  
+Passionate about educational technology, software development, and modern teaching methods in informatics.
 
-Here are some ideas to get you started:
+## 🔬 Research & Professional interests
+- Informatics education and curriculum development
+- Information systems and web technologies
+- Interactive and automated learning tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Selected publications / Projects
+- Muratbek A. (2026). *Informatics Teaching Methods and Information Systems*. 
+
+## 🛠 Tools & methods
+Python · JavaScript · SQL · Git · HTML/CSS · Educational Platforms
+
+## 📂 Main projects
+- [teaching-materials](https://github.com/aiganat-muratbek/teaching-materials) - educational resources and informatics tasks
+
+## 🔗 Links
+[ORCID](https://orcid.org/0009-0008-8324-4671) ·  
+[LinkedIn](https://linkedin.com/in/...)
+
+📫 Contact: ma09kzz@gmail.com
